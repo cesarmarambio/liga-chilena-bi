@@ -44,3 +44,5 @@ El script está preparado para ejecutarse por consola recibiendo el número de j
 ## Seguridad
 
 Se implementó un archivo `.gitignore` para excluir el archivo `.env`, garantizando que las credenciales de base de datos y API Keys nunca se expongan en el repositorio.
+
+![Captura del Dashboard con información actualizada al 15 de Junio de 2026](img/captura_reporte.png)
